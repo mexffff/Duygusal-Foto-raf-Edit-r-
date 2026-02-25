@@ -1,0 +1,7 @@
+{
+  "name": "Duygusal Fotoğraf Editörü",
+  "description": "AI destekli gelişmiş fotoğraf düzenleme ve anı oluşturma uygulaması. Gelecek tahmini, restorasyon ve daha fazlası.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
